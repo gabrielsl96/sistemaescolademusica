@@ -12,7 +12,7 @@ O dia a dia de uma escola de música é extremamente dinâmico e desfiador. São
 - Registro de aulas individuais e coletivas;
 ### Implementações futuras
 - API;
-- Bot Telegram para registro e controle das aulas;
+- Bot Telegram para registro, controle e consulta das aulas;
 - Cadastrar novos alunos ou professores via Google Forms;
 - Matrícula;
 - Dashbord com resumo do número de alunos da escola, quantidade de faltas, taxa de retenção e número de faltas dos professores.
