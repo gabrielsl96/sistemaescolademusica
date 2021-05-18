@@ -11,7 +11,7 @@ O dia a dia de uma escola de música é extremamente dinâmico e desfiador. São
 - Cadastro de turmas;
 - Registro de aulas individuais e coletivas;
 ### Implementações futuras
-- Api;
+- API;
 - Bot Telegram para registro e controle das aulas;
 - Cadastrar novos alunos ou professores via Google Forms;
 - Matrícula;
