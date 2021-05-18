@@ -18,7 +18,7 @@ O dia a dia de uma escola de música é extremamente dinâmico e desfiador. São
 - Dashbord com resumo do número de alunos da escola, quantidade de faltas, taxa de retenção e número de faltas dos professores.
 
 ## Tecnologias
-- Django v.2.0
+- Django v.3.2
 - Django Rest Framework
 - Telegram Api
 - Google Scripts
