@@ -10,16 +10,16 @@ O dia a dia de uma escola de música é extremamente dinâmico e desfiador. São
 - Cadastro alunos;
 - Cadastro de turmas;
 - Registro de aulas individuais e coletivas;
-### Implementações futuras
+### Futuras Implementações
 - API;
 - Bot Telegram para registro, controle e consulta das aulas;
 - Cadastrar novos alunos ou professores via Google Forms;
 - Matrícula;
+- Automação de envios de avisos via bot telegram com informes da escola (feriados, apresentações, entrada de novos alunos e afins);
 - Dashbord com resumo do número de alunos da escola, quantidade de faltas, taxa de retenção e número de faltas dos professores.
 
 ## Tecnologias
 - Django v.3.2
-- Django Rest Framework
 - Telegram Api
 - Google Scripts
 

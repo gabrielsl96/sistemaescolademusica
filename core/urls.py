@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from api.views import ViewCourse
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+	path('api/', ViewCourse.as_view()),
+	path('api/<int:id_course>', ViewCourse.as_view()),
 ]
