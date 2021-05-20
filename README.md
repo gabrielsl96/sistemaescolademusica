@@ -2,7 +2,7 @@
 Sistema para escola de música (Em desenvolvimento)
 
 ## Introdução
-O dia a dia de uma escola de música é extremamente dinâmico e desfiador. São inúmeros alunos e diversas formações de aulas: Aulas individuais, aulas em grupo com um e com mais professores, práticas de banda e afins. Com isso, um sistema bem estruturado pode ser uma ótima ferramenta de otimização do processo de desenvolvimento dos alunos e organização dos professores.
+O dia a dia de uma escola de música é extremamente dinâmico e desafiador. São inúmeros alunos e diversas formações de aulas: Aulas individuais, aulas em grupo com um ou mais professores, práticas de banda e outras mais. Com isso, um sistema bem estruturado pode ser uma ótima ferramenta de otimização do processo de desenvolvimento dos alunos e organização dos professores.
 
 ## Funções
 ### Já implementadas
