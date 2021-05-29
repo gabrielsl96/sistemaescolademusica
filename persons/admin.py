@@ -4,20 +4,20 @@ from persons import models
 
 @admin.register(models.Teacher)
 class TeacherAdmin(admin.ModelAdmin):
-	list_display = ('name', 'id_p',)
+	list_display = ('name', 'id_t',)
 	ordering = ('name', )
 
 @admin.register(models.Student)
 class StudentAdmin(admin.ModelAdmin):
-	list_display = ('name', 'teacher_display')
+	list_display = ('name', 'teacher_display', 'id_s')
 	ordering = ('name',)
 
 	def teacher_display(self, obj):
 		return ", ".join([teacher.name for teacher in obj.teacher.filter()])
 	teacher_display.short_description = "Professor(a)"
 
-@admin.register(models.Class)
-class ClassAdmin(admin.ModelAdmin):
+@admin.register(models.Group)
+class GroupAdmin(admin.ModelAdmin):
 	list_display = ('id_display', 'course', 'especification', 'teacher',
 		'students_display',)
 
