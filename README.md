@@ -10,8 +10,8 @@ O dia a dia de uma escola de música é extremamente dinâmico e desafiador. Sã
 - Cadastro alunos;
 - Cadastro de turmas;
 - Registro de aulas individuais e coletivas;
+- - API (Uma API Simples com Rest Framework já foi implementada, mas outra está sendo desenvolvida com [Spring Boot](https://github.com/gabrielsl96/apispringboot);
 ### Futuras Implementações
-- API;
 - Bot Telegram para registro, controle e consulta das aulas;
 - Cadastrar novos alunos ou professores via Google Forms;
 - Matrícula;
